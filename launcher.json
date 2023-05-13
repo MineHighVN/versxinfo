@@ -1,0 +1,15 @@
+{
+    "launcher": {
+        "image": "https://wallpaperaccess.com/full/37440.jpg",
+        "lastestVersion": "v1.0.0/Development",
+        "versionID": 1
+    },
+    "client": {
+        "versions": [
+            {
+                "id": "VersX Client 1.8.9 a0001/Development",
+                "type": "Development"
+            }
+        ]
+    }
+}
