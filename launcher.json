@@ -8,7 +8,9 @@
         "versions": [
             {
                 "id": "VersX Client 1.8.9 a0001/Development",
-                "type": "Development"
+                "displayName": "VersX Client 1.8.9",
+                "type": "Development",
+                "downloadURL": "https://github.com/MineHighVN/versxinfo/raw/main/VersX%20Client%201.8.9.zip"
             }
         ]
     }
