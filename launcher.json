@@ -2,7 +2,8 @@
     "launcher": {
         "image": "https://wallpaperaccess.com/full/37440.jpg",
         "lastestVersion": "v1.0.0/Development",
-        "versionID": 1
+        "versionID": 1,
+        "notify": "Hôm nay là ngày ra đời của VersX Launcher đấy!"
     },
     "client": {
         "versions": [
